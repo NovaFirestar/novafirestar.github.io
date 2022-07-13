@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    font-family: "Fira Code", monospace;
+    color:red; 
+    text-align: center;
+}
+img {
+    width: 50px
+}
+
+#socials {
+    text-decoration: none;
+}
+#source {
+    color:grey;
+    background-color: transparent;
+    font-size:small;
+}
