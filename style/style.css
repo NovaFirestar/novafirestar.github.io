@@ -16,3 +16,8 @@ img {
     background-color: transparent;
     font-size:small;
 }
+
+#pfp { 
+    width: 80px;
+    border-radius: 50%;
+}
