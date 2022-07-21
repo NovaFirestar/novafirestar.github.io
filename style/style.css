@@ -1,23 +1,30 @@
 * {
     background-color: black;
     font-family: "Fira Code", monospace;
-    color:red; 
+    color:whitesmoke; 
     text-align: center;
 }
 img {
     width: 50px
 }
 
+
 #socials {
     text-decoration: none;
 }
+/* possibly deprecated
 #source {
     color:grey;
     background-color: transparent;
     font-size:small;
 }
+*/
 
 #pfp { 
     width: 80px;
     border-radius: 50%;
+}
+
+#navbar {
+    text-align:center;
 }
